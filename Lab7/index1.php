@@ -28,7 +28,6 @@
     <?php
 
     $numberofHobbits = 2;
-
     switch ($numberofHobbits) {
         case 1:
             echo "1 sad hobbit";
